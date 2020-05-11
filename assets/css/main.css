@@ -7,7 +7,7 @@
 		margin: 0;
 		padding: 0;
 		border: 0;
-		font-size: 200%;
+		font-size: 250%;
 		font: inherit;
 		vertical-align: baseline;
 	}
@@ -17,7 +17,7 @@
 	}
 
 	body {
-		line-height: 1;
+		line-height: 2;
 	}
 
 	ol, ul {
